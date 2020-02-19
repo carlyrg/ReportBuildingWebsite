@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1224px" height="792px" viewBox="0 0 1224 792" enable-background="new 0 0 1224 792" xml:space="preserve">
+<rect x="2562.492" y="495.008" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="64.159" height="16.371"/>
+<text transform="matrix(1 0 0 1 2570.5381 505.8071)" font-family="'Calibri'" font-size="9">Activity Facts</text>
+<rect x="2705.562" y="495.008" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="64.158" height="16.371"/>
+<text transform="matrix(1 0 0 1 2709.0449 505.8071)" font-family="'Calibri'" font-size="9">Campaign Facts</text>
+<rect x="3025.7" y="495.008" fill="none" stroke="#58C9E9" stroke-width="1.25" stroke-miterlimit="10" width="64.158" height="16.371"/>
+<text transform="matrix(1 0 0 1 3032.2529 505.8071)" font-family="'Calibri'" font-size="9">Relation Facts</text>
+<rect x="3168.769" y="495.008" fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" width="71.158" height="16.371"/>
+<text transform="matrix(1 0 0 1 3172.5928 505.8071)" font-family="'Calibri'" font-size="9">Transaction Facts</text>
+<rect x="3490.903" y="495.008" fill="none" stroke="#004D33" stroke-width="1.25" stroke-miterlimit="10" width="71.158" height="16.371"/>
+<text transform="matrix(1 0 0 1 3502.042 505.8071)" font-family="'Calibri'" font-size="9">Waitlist Facts</text>
+<rect x="3318.837" y="495.008" fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" width="93.157" height="16.371"/>
+<text transform="matrix(1 0 0 1 3323.3936 505.8071)" font-family="'Calibri'" font-size="9">Housing Contract Facts</text>
+<rect x="3320.546" y="381.76" fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" width="71.157" height="16.372"/>
+<text transform="matrix(0.9 0 0 1 3331.1455 392.5586)" font-family="'Calibri'" font-size="9">Unit Dimension</text>
+<rect x="3320.546" y="362.397" fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" width="71.157" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 3331.1455 373.1963)" font-family="'Calibri'" font-size="9">Unit Dimension</text>
+<rect x="2848.63" y="495.008" fill="none" stroke="#6ABD45" stroke-width="1.25" stroke-miterlimit="10" width="98.16" height="16.371"/>
+<text transform="matrix(1 0 0 1 2856.6143 505.8071)" font-family="'Calibri'" font-size="9">Goal Community Facts</text>
+<rect x="2683.239" y="389.446" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="82.848" height="23.372"/>
+<text transform="matrix(0.9 0 0 1 2696.3545 399.4448)"><tspan x="0" y="0" font-family="'Calibri'" font-size="9">Referring Contact </tspan><tspan x="12.285" y="10" font-family="'Calibri'" font-size="9">Dimension</tspan></text>
+<rect x="2741.233" y="363.561" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="82.849" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2748.8467 374.3594)" font-family="'Calibri'" font-size="9">Individual Dimension</text>
+<rect x="2800.085" y="389.446" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="82.849" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2806 400.2446)" font-family="'Calibri'" font-size="9">Activity Assigned User</text>
+<rect x="2620.103" y="363.561" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="82.849" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2627.3574 374.3594)" font-family="'Calibri'" font-size="9">Campaign Dimension</text>
+<rect x="2912.138" y="323.153" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="82.85" height="16.374"/>
+<text transform="matrix(0.9 0 0 1 2921.708 333.1523)" font-family="'Calibri'" font-size="9">Location Dimension</text>
+<rect x="2912.138" y="306.782" fill="none" stroke="#6ABD45" stroke-width="1.25" stroke-miterlimit="10" width="82.85" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2921.708 316.7803)" font-family="'Calibri'" font-size="9">Location Dimension</text>
+<rect x="2912.138" y="285.985" fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" width="82.85" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2921.708 295.9839)" font-family="'Calibri'" font-size="9">Location Dimension</text>
+<rect x="2912.138" y="263.861" fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" width="82.85" height="16.372"/>
+<text transform="matrix(0.9 0 0 1 2921.708 273.8604)" font-family="'Calibri'" font-size="9">Location Dimension</text>
+<rect x="3064.456" y="384.76" fill="none" stroke="#6ABD45" stroke-width="1.25" stroke-miterlimit="10" width="82.848" height="16.372"/>
+<text transform="matrix(0.9 0 0 1 3080.3525 394.7588)" font-family="'Calibri'" font-size="9">Goal Dimension</text>
+<rect x="2741.233" y="347.711" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="82.849" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2748.8457 358.5103)" font-family="'Calibri'" font-size="9">Individual Dimension</text>
+<rect x="2741.233" y="329.653" fill="none" stroke="#58C9E9" stroke-width="1.25" stroke-miterlimit="10" width="82.849" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 2748.8457 340.4521)" font-family="'Calibri'" font-size="9">Individual Dimension</text>
+<rect x="2741.233" y="309.299" fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" width="82.849" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2748.8457 320.0981)" font-family="'Calibri'" font-size="9">Individual Dimension</text>
+<rect x="2739.464" y="285.985" fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" width="82.848" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2747.0752 296.7837)" font-family="'Calibri'" font-size="9">Individual Dimension</text>
+<rect x="2912.138" y="244.613" fill="none" stroke="#004D33" stroke-width="1.25" stroke-miterlimit="10" width="82.85" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2921.708 254.6123)" font-family="'Calibri'" font-size="9">Location Dimension</text>
+<rect x="2739.464" y="266.736" fill="none" stroke="#004D33" stroke-width="1.25" stroke-miterlimit="10" width="82.848" height="16.372"/>
+<text transform="matrix(0.9 0 0 1 2747.0752 277.5356)" font-family="'Calibri'" font-size="9">Individual Dimension</text>
+<rect x="3200.085" y="376.572" fill="none" stroke="#58C9E9" stroke-width="1.25" stroke-miterlimit="10" width="82.848" height="23.374"/>
+<text transform="matrix(0.9 0 0 1 3213.793 386.5728)"><tspan x="0" y="0" font-family="'Calibri'" font-size="9">Assigned Contact </tspan><tspan x="11.624" y="10" font-family="'Calibri'" font-size="9">Dimension</tspan></text>
+<rect x="2743.279" y="427.499" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="82.85" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2754.0713 438.2974)" font-family="'Calibri'" font-size="9">Contact Dimension</text>
+<rect x="2622.997" y="422.685" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="82.848" height="22.371"/>
+<text transform="matrix(0.9 0 0 1 2640.7002 432.6841)"><tspan x="0" y="0" font-family="'Calibri'" font-size="9">Market Source </tspan><tspan x="7.188" y="10" font-family="'Calibri'" font-size="9">Dimension</tspan></text>
+<rect x="2620.103" y="346.026" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="82.849" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 2627.3574 356.8242)" font-family="'Calibri'" font-size="9">Campaign Dimension</text>
+<rect x="2981.606" y="698.073" fill="none" stroke="#000000" stroke-width="1.25" stroke-miterlimit="10" width="82.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 2997.2627 708.8735)" font-family="'Calibri'" font-size="9">Date Dimension</text>
+<rect x="2620.227" y="419.712" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="88.603" height="28.319"/>
+<rect x="191.611" y="486.51" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="64.159" height="16.371"/>
+<text transform="matrix(1 0 0 1 199.6572 497.3091)" font-family="'Calibri'" font-size="9">Activity Facts</text>
+<rect x="334.681" y="486.51" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="64.158" height="16.371"/>
+<text transform="matrix(1 0 0 1 338.1641 497.3091)" font-family="'Calibri'" font-size="9">Campaign Facts</text>
+<rect x="654.819" y="486.51" fill="none" stroke="#58C9E9" stroke-width="1.25" stroke-miterlimit="10" width="64.158" height="16.371"/>
+<text transform="matrix(1 0 0 1 661.3726 497.3091)" font-family="'Calibri'" font-size="9">Relation Facts</text>
+<rect x="797.888" y="486.51" fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" width="71.158" height="16.371"/>
+<text transform="matrix(1 0 0 1 801.7114 497.3091)" font-family="'Calibri'" font-size="9">Transaction Facts</text>
+<rect x="1120.022" y="486.51" fill="none" stroke="#00A761" stroke-width="1.25" stroke-miterlimit="10" width="71.158" height="16.371"/>
+<text transform="matrix(1 0 0 1 1131.1611 497.3091)" font-family="'Calibri'" font-size="9">Waitlist Facts</text>
+<rect x="947.956" y="486.51" fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" width="93.157" height="16.371"/>
+<text transform="matrix(1 0 0 1 952.5127 497.3091)" font-family="'Calibri'" font-size="9">Housing Contract Facts</text>
+<rect x="477.749" y="486.51" fill="none" stroke="#6ABD45" stroke-width="1.25" stroke-miterlimit="10" width="98.16" height="16.371"/>
+<text transform="matrix(1 0 0 1 485.7344 497.3091)" font-family="'Calibri'" font-size="9">Goal Community Facts</text>
+<rect x="39.358" y="348.061" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="82.848" height="23.372"/>
+<text transform="matrix(0.9 0 0 1 52.4741 358.0601)"><tspan x="0" y="0" font-family="'Calibri'" font-size="9">Referring Contact </tspan><tspan x="12.285" y="10" font-family="'Calibri'" font-size="9">Dimension</tspan></text>
+<polygon fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" points="180.631,400.82 136.963,400.82 
+	97.782,400.82 97.782,384.449 180.631,384.449 "/>
+<text transform="matrix(0.9 0 0 1 103.6973 395.2485)" font-family="'Calibri'" font-size="9">Activity Assigned User</text>
+<rect x="481.061" y="384.449" fill="none" stroke="#6ABD45" stroke-width="1.25" stroke-miterlimit="10" width="82.848" height="16.372"/>
+<text transform="matrix(0.9 0 0 1 496.9585 394.4478)" font-family="'Calibri'" font-size="9">Goal Dimension</text>
+<rect x="638.65" y="380.947" fill="none" stroke="#58C9E9" stroke-width="1.25" stroke-miterlimit="10" width="82.848" height="23.374"/>
+<text transform="matrix(0.9 0 0 1 652.3584 390.9473)"><tspan x="0" y="0" font-family="'Calibri'" font-size="9">Assigned Contact </tspan><tspan x="11.625" y="10" font-family="'Calibri'" font-size="9">Dimension</tspan></text>
+<rect x="353.76" y="385.76" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="72.85" height="16.371"/>
+<text transform="matrix(0.9 0 0 1 359.5522 396.5605)" font-family="'Calibri'" font-size="9">Contact Dimension</text>
+<rect x="610.726" y="689.575" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="63.183" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 616.5479 700.3745)" font-family="'Calibri'" font-size="9">Date Dimension</text>
+<rect x="726.665" y="736.575" fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" width="63.183" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 734.9697 747.3745)" font-family="'Calibri'" font-size="9">Date Selection</text>
+<rect x="153.039" y="297.415" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="82.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 155.751 308.2144)" font-family="'Calibri'" font-size="9">Activity Created by User</text>
+<rect x="28.289" y="482.312" fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" width="82.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 30.1436 493.1118)" font-family="'Calibri'" font-size="9">Referral Created by User</text>
+<rect x="46.539" y="461.075" fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" width="89.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 55.0972 471.8745)" font-family="'Calibri'" font-size="9">Referral Assigned User</text>
+<rect x="191.611" y="184.888" fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" width="100.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 195.8584 195.688)" font-family="'Calibri'" font-size="9">Individual History Dimension</text>
+<rect x="854.873" y="164.448" fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" width="100.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 873.3574 175.2476)" font-family="'Calibri'" font-size="9">Unit Historical Facts</text>
+<rect x="202.567" y="153.448" fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" width="100.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 213.7749 164.2476)" font-family="'Calibri'" font-size="9">Individual Assigned User</text>
+<rect x="252.992" y="127.074" fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" width="100.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 260.9971 137.8735)" font-family="'Calibri'" font-size="9">Individual Created by User</text>
+<rect x="531.229" y="110.701" fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" width="69.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 540.4131 121.5005)" font-family="'Calibri'" font-size="9">Individiual Facts</text>
+<rect x="91.464" y="112.518" fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" width="69.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 104.3872 123.3179)" font-family="'Calibri'" font-size="9">Referral Facts</text>
+<rect x="122.207" y="258.397" fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" width="80.85" height="16.373"/>
+<text transform="matrix(0.9 0 0 1 127.8066 269.1973)" font-family="'Calibri'" font-size="9">Referal Relation Facts</text>
+<g>
+	
+		<rect x="211.354" y="381.447" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="82.848" height="22.371"/>
+	<text transform="matrix(0.9 0 0 1 229.0566 391.4458)"><tspan x="0" y="0" font-family="'Calibri'" font-size="9">Market Source </tspan><tspan x="7.188" y="10" font-family="'Calibri'" font-size="9">Dimension</tspan></text>
+	
+		<rect x="208.583" y="378.474" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="88.603" height="28.319"/>
+</g>
+<g>
+	
+		<rect x="293.54" y="328.758" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="82.849" height="16.371"/>
+	<text transform="matrix(0.9 0 0 1 300.7944 339.5562)" font-family="'Calibri'" font-size="9">Campaign Dimension</text>
+	
+		<rect x="290.663" y="325.756" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="88.603" height="22.304"/>
+</g>
+<line fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" x1="122.963" y1="400.82" x2="194.464" y2="486.51"/>
+<line fill="none" stroke="#4254A4" stroke-miterlimit="10" x1="61.964" y1="371.265" x2="191.611" y2="490.499"/>
+<line fill="none" stroke="#4254A4" stroke-miterlimit="10" x1="207.964" y1="486.51" x2="237.464" y2="406.999"/>
+<line fill="none" stroke="#4254A4" stroke-miterlimit="10" x1="252.992" y1="486.225" x2="334.686" y2="347.775"/>
+<line fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" x1="340.964" y1="348.06" x2="342.464" y2="485.51"/>
+<line fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" x1="265.464" y1="406.999" x2="334.68" y2="492.832"/>
+<line fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" x1="395.185" y1="401.82" x2="376.389" y2="485.51"/>
+<line fill="none" stroke="#6ABD45" stroke-width="1.25" stroke-miterlimit="10" x1="526.829" y1="401.819" x2="526.829" y2="486.225"/>
+<line fill="none" stroke="#58C9E9" stroke-width="1.25" stroke-miterlimit="10" x1="683.431" y1="405.106" x2="683.431" y2="486.166"/>
+<g>
+	
+		<rect x="427.422" y="273.343" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="82.849" height="16.371"/>
+	<text transform="matrix(0.9 0 0 1 435.0347 284.1416)" font-family="'Calibri'" font-size="9">Individual Dimension</text>
+	
+		<rect x="424.545" y="270.376" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="88.603" height="22.304"/>
+	
+		<rect x="422.146" y="268.048" fill="none" stroke="#58C9E9" stroke-width="1.25" stroke-miterlimit="10" width="93.089" height="26.952"/>
+	
+		<rect x="420.059" y="265.728" fill="none" stroke="#00A761" stroke-width="1.25" stroke-miterlimit="10" width="97.76" height="31.687"/>
+	
+		<rect x="417.475" y="263.313" fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" width="102.51" height="36.687"/>
+	
+		<rect x="415.309" y="261.627" fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" width="107.176" height="40.54"/>
+</g>
+<g>
+	
+		<rect x="636.734" y="273.806" fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" width="82.85" height="16.374"/>
+	<text transform="matrix(0.9 0 0 1 646.3042 283.8052)" font-family="'Calibri'" font-size="9">Location Dimension</text>
+	
+		<rect x="634.055" y="270.541" fill="none" stroke="#6ABD45" stroke-width="1.25" stroke-miterlimit="10" width="88.114" height="22.521"/>
+	
+		<rect x="632.079" y="268.602" fill="none" stroke="#00A761" stroke-width="1.25" stroke-miterlimit="10" width="92.535" height="26.478"/>
+	
+		<rect x="629.633" y="266.584" fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" width="97.031" height="30.655"/>
+	
+		<rect x="627.583" y="264.263" fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" width="101.449" height="34.787"/>
+</g>
+<g>
+	
+		<rect x="862.665" y="371.265" fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" width="71.157" height="16.373"/>
+	<text transform="matrix(0.9 0 0 1 873.2651 382.0645)" font-family="'Calibri'" font-size="9">Unit Dimension</text>
+	
+		<rect x="859.964" y="368.499" fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" width="76.75" height="21.75"/>
+</g>
+<line fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" x1="255.77" y1="490.499" x2="424.545" y2="302.167"/>
+<line fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" x1="468.938" y1="302.167" x2="398.839" y2="494.696"/>
+<polyline fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" points="398.839,496.999 468.69,496.999 
+	468.69,325.756 688.964,325.756 688.964,300 "/>
+<polyline fill="none" stroke="#6ABD45" stroke-width="1.25" stroke-miterlimit="10" points="526.829,384.449 526.829,328.756 
+	695.769,328.756 695.769,300 "/>
+<line fill="none" stroke="#58C9E9" stroke-width="1.25" stroke-miterlimit="10" x1="484.964" y1="303.165" x2="680.074" y2="486.51"/>
+<polyline fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" points="806.964,485.51 806.964,355.499 
+	481.061,355.499 481.061,303.165 "/>
+<polyline fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" points="835.964,486.166 835.964,336.942 
+	714.964,336.942 714.63,300 "/>
+<line fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" x1="852.964" y1="486.51" x2="882.63" y2="390.249"/>
+<line fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" x1="965.63" y1="486.51" x2="905.297" y2="390.249"/>
+<polyline fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" points="1015.964,486.51 1015.964,245.166 
+	486.631,245.166 486.631,261.627 "/>
+<polyline fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" points="1002.964,485.51 1002.964,289.714 
+	729.031,289.714 "/>
+<polyline fill="none" stroke="#00A761" stroke-width="1.25" stroke-miterlimit="10" points="1134.631,486.166 1134.631,275.5 
+	729.031,275.5 "/>
+<polyline fill="none" stroke="#00A761" stroke-width="1.25" stroke-miterlimit="10" points="1150.297,486.166 1150.297,229.5 
+	477.75,229.5 477.75,261.627 "/>
+<rect x="607.964" y="686.999" fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" width="68.667" height="21.829"/>
+<rect x="604.964" y="684.634" fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" width="75.11" height="27.86"/>
+<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="311.464" y1="143.999" x2="415.099" y2="277.937"/>
+<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="286.964" y1="169.821" x2="415.099" y2="283.065"/>
+<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="264.929" y1="202.08" x2="414.564" y2="288.062"/>
+<polyline fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" points="531.229,118.887 445.964,118.887 
+	445.964,261.627 "/>
+<polyline fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" points="699.464,263.444 699.464,86.705 
+	139.207,86.705 139.207,111.701 "/>
+<polyline fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" points="601.079,118.887 673.464,118.887 
+	673.464,262.627 "/>
+<line fill="none" stroke="#939598" stroke-miterlimit="10" x1="203.056" y1="268.048" x2="415.309" y2="293.062"/>
+<line fill="#FFFFFF" x1="150.464" y1="274.805" x2="91.464" y2="348.061"/>
+<line fill="none" stroke="#4254A4" stroke-width="1.25" stroke-miterlimit="10" x1="189.464" y1="313.788" x2="202.567" y2="486.166"/>
+<polyline fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" points="54.964,348.06 54.964,120.705 
+	91.464,120.705 "/>
+<line fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" x1="58.464" y1="461.075" x2="58.464" y2="371.433"/>
+<line fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" x1="39.358" y1="483.201" x2="39.358" y2="371.265"/>
+<rect x="601.964" y="681.828" fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" width="81.467" height="33.334"/>
+<line fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" x1="898.243" y1="181.821" x2="898.243" y2="366.838"/>
+<path fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" d="M854.873,172.634c0-0.136-140.242,0-140.242,0
+	v90.81"/>
+<rect x="598.964" y="678.162" fill="none" stroke="#00A761" stroke-width="1.25" stroke-miterlimit="10" width="87.934" height="40.333"/>
+<line fill="none" stroke="#4254A4" stroke-miterlimit="10" x1="235.889" y1="502.881" x2="598.964" y2="689.575"/>
+<line fill="none" stroke="#E6185A" stroke-width="1.25" stroke-miterlimit="10" x1="381.464" y1="502.881" x2="607.964" y2="676.448"/>
+<line fill="none" stroke="#F9A33F" stroke-width="1.25" stroke-miterlimit="10" x1="844.464" y1="502.881" x2="676.631" y2="678.162"/>
+<line fill="none" stroke="#004561" stroke-width="1.25" stroke-miterlimit="10" x1="989.464" y1="502.881" x2="686.897" y2="689.575"/>
+<line fill="none" stroke="#00A761" stroke-width="1.25" stroke-miterlimit="10" x1="1159.464" y1="502.881" x2="685.897" y2="698.565"/>
+<line fill="none" stroke="#8F9194" stroke-width="1.25" stroke-miterlimit="10" x1="668.964" y1="718.495" x2="726.665" y2="744.761"/>
+<text transform="matrix(0.9 0 0 1 541.4478 36.1655)" font-family="'Calibri'" font-size="18">Enquire Analytics Schema</text>
+</svg>
